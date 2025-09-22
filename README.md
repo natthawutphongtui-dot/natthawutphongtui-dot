@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 850px; margin: auto;">
   
   <!-- Profile Image -->
-  <img src="https://github.com/natthawutphongtui-dot/natthawutphongtui/blob/main/1dfcd553-0a58-4539-a49d-44824a7e211c.jpg" width="160px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Natthawut's Profile Picture" />
+  <img src="https:/[/github.com/natthawutphongtui-dot/natthawutphongtui](https://github.com/natthawutphongtui-dot/natthawutphongtui-dot)/blob/main/1dfcd553-0a58-4539-a49d-44824a7e211c.jpg" width="160px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Natthawut's Profile Picture" />
 
   <!-- Heading -->
   <h1 style="margin-top: 15px; font-size: 2.2rem;">Hi there, I'm <span style="color:#007acc;">Natthawut Phongtui</span> 👋</h1>
