@@ -11,11 +11,76 @@
 
 ---
 
-# 👨‍💻 About Me  
-- 🎓 IT Student at **Maejo University** (Graduating 2026)  
-- 💻 Interested in **Frontend Development** and **Full-Stack Projects**  
-- 🚀 Experienced with **Flutter, React, Spring Boot, MySQL**  
-- 🌱 Currently learning **Advanced React & System Design**  
+# 👨‍💻 Natthawut Phongtui
+
+**Frontend Developer**
+
+📍 Chiang Mai, Thailand  
+📧 Email: [natthawutphongtui@gmail.com](mailto:natthawutphongtui@gmail.com)  
+📞 Phone: 085-801-6787  
+
+---
+
+## 🎯 Career Objective
+Motivated to pursue a career as a **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React, Java, and Flutter**.  
+Experienced in **Full-stack projects**, capable of building **responsive, user-friendly, and reliable applications**.
+
+---
+
+## 🎓 Education
+- **Maejo University, Chiang Mai, Thailand** (2022 – Present)  
+  Bachelor of Science in Information Technology  
+  _Expected Graduation: May 2026_  
+  **Cumulative GPA:** 2.68 / 4.00  
+
+---
+
+## 💼 Experience
+
+### 📱 Mobile Application – Maebanjumpen  
+**Role:** Full-stack Developer (Backend & Frontend collaboration)  
+**Technologies:** Flutter (Dart), Spring Boot (Java), MySQL, REST API  
+
+- Developed RESTful APIs for multi-role user management  
+- Integrated UI with APIs using Flutter  
+- Designed and managed secure databases  
+
+---
+
+### 💻 Web Application – IhaveGPU  
+**Role:** Full-stack Developer (Backend + UI Integration)  
+**Technologies:** Java, Spring MVC, JSP, MySQL, REST API  
+
+- Built backend services with Spring MVC & Java  
+- Contributed to Frontend development with JSP  
+- Designed and optimized MySQL database performance  
+
+---
+
+### 🌐 Website Design & Development – Qunaris Team  
+**Role:** Frontend Developer (Frontend + UX/UI Design)  
+**Technologies:** HTML, CSS, JavaScript, React  
+
+- Designed UX/UI using Motiff & Figma  
+- Developed responsive Frontend with HTML, CSS, JavaScript, React  
+
+---
+
+## 🛠 Technical Skills
+- **Languages:** Java, Dart, JavaScript, HTML/CSS, React  
+- **Frameworks & Tools:** Spring Boot, Flutter, Firebase, Git & GitHub  
+- **Web Development:** Frontend (HTML/CSS/JS), Backend (Spring Boot), RESTful API  
+- **Databases:** MySQL, Firebase  
+- **Software & IDEs:** IntelliJ IDEA, Eclipse, VS Code, MySQL Workbench  
+- **Other Skills:** Problem-solving, Debugging, Database Design, Decision-making  
+
+---
+
+## 📌 Reference
+**Dr. Watcharin Sarachai**  
+Lecturer, Information Technology Program, Maejo University, Chiang Mai  
+📧 Email: [watcharin_s@mju.ac.th](mailto:watcharin_s@mju.ac.th) | 📞 053-873900  
+
 
 ---
 
